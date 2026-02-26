@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "leemdotrbl/hello-django:amd64",
+    "Name": "leemdotrbl/hello-django-deploy:latest",
     "Update": "true"
   },
   "Ports": [
